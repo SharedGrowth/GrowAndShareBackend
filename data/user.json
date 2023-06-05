@@ -1,0 +1,19 @@
+ [
+    
+      {  
+            "active": true,
+            "_id": "647992fa5647fe2e64bfc069",
+            "fullName": "User Retailer",
+            "email": "userRetailer@mailinator.com",
+            "userType": "Retailer"
+        },
+
+        {
+            "active": true,
+            "_id": "647992fa5647fe2e64bfc070",
+            "fullName": "User Consumer",
+            "email": "userConsumer@mailinator.com",
+            "userType": "Consumer"
+        }
+        
+]

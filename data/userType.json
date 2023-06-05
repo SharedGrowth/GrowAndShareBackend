@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "64797c6346f1af1074f48d97",
+    "userId": "647992fa5647fe2e64bfc069",
+    "strainType": "Indica",
+    "grownType": "Dispencary",
+    "photo": "uploads\\userItem\\52f2c520-803b-42a3-b594-c8f1114dc138.png"
+  },
+  {
+    "_id": "64797c6346f1af1074f48d98",
+    "userId": "647992fa5647fe2e64bfc069",
+    "strainType": "CBD",
+    "grownType": "Grown",
+    "photo": "uploads\\userItem\\17b5b524-84f9-455b-a8db-21dbed03817f.png"
+  },
+  {
+    "_id": "64797c6346f1af1074f48d99",
+    "userId": "647992fa5647fe2e64bfc070",
+    "strainType": "CBD",
+    "grownType": "Grown",
+    "photo": "uploads\\userItem\\17b5b524-84f9-455b-a8db-21dbed03817f.png"
+  }
+]
